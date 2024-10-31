@@ -1,0 +1,614 @@
+# Copyright (C) 2016 No Frills Prize Draw
+# This file is distributed under the same license as the No Frills Prize Draw package.
+msgid ""
+msgstr ""
+"Project-Id-Version: No Frills Prize Draw 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/no-frills-prize-"
+"draw\n"
+"POT-Creation-Date: 2016-11-24 11:32+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-11-24 11:35+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#: admin/nfpd-edit-draw-admin.php:3 admin/nfpd-shortcode-generator-admin.php:3
+#: admin/nfpd-view-entrees-admin.php:3
+msgid "You do not have the correct privileges to access this page"
+msgstr ""
+"Sie haben nicht die richtigen Berechtigungen, um auf diese Seite zuzugreifen"
+
+#: admin/nfpd-edit-draw-admin.php:8
+msgid "Prize Draw Details"
+msgstr "Details"
+
+#: admin/nfpd-edit-draw-admin.php:14
+msgid "Prize draw has been successfully cleared"
+msgstr "Die Verlosung wurde erfolgreich abgeschlossen"
+
+#: admin/nfpd-edit-draw-admin.php:16
+msgid "Prize draw could not be cleared"
+msgstr "Die Verlosung konnte nicht gelöscht werden"
+
+#: admin/nfpd-edit-draw-admin.php:23
+msgid "Your prize draw was updated successfully"
+msgstr "Erfolgreich geupdated"
+
+#: admin/nfpd-edit-draw-admin.php:25
+msgid "Error - could not update prize draw"
+msgstr "Fehler - Nicht aktualisiert"
+
+#: admin/nfpd-edit-draw-admin.php:30
+msgid "Please wait..."
+msgstr "Bitte warten..."
+
+#: admin/nfpd-edit-draw-admin.php:89
+msgid "Amend prize draw details below (* = required)"
+msgstr "Ändern Sie die Details unten (* = erforderlich)"
+
+#: admin/nfpd-edit-draw-admin.php:95
+msgid "Basic Prize Draw Details"
+msgstr "Grundlegende Details"
+
+#: admin/nfpd-edit-draw-admin.php:96
+msgid "Prize Draw Title"
+msgstr "Titel"
+
+#: admin/nfpd-edit-draw-admin.php:99
+msgid "Additional Text"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:102
+msgid "Prize Image"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:105
+msgid "Change Image"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:108
+msgid "Question / Answer"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:109
+msgid "Prize Draw Type"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:111
+msgid "Open (No questions)"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:112
+msgid "Multiple Choice Question/Answer"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:113
+msgid "Free-text Question/Response"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:119
+msgid "Multiple Answers"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:119
+msgid "One answer per line"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:122
+msgid "Is there a correct answer?"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:123
+msgid "NO"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:123
+msgid "YES"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:125
+msgid "Correct Answer"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:125
+msgid "Which line number is the correct answer?"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:128 admin/nfpd-view-entrees-admin.php:104
+msgid "Answer"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:128
+msgid "Does not need to be case-specific"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:132
+msgid "Additional Requirements"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:133 no-frills-prize-draw.php:714
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:133
+msgid "Does the user need to agree to terms and conditions?"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:134
+msgid "User MUST accept Terms &amp; Conditions"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:136
+msgid "Terms &amp; Conditions Link"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:136
+msgid "Provide the URL to Terms &amp; Conditions"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:137
+msgid "required"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:139
+msgid "Registered users only?"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:139
+msgid ""
+"If checked, log in and register links will be provided. Name and email "
+"details will be removed, data will be taken from the stored user details"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:140
+msgid "Users must be registered"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:143 admin/nfpd-view-entrees-admin.php:162
+msgid "Go Back"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:143
+msgid "Remove Draw Details &amp; Entries"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:143
+msgid "Save Prize Draw Details"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:152
+msgid ""
+"You are about to clear this prize draw and all entries.\n"
+"You will lose all the user entry data. Please download the CSV from the "
+"admin entries page to retain this data first.\n"
+"Click Ok to remove all data or Cancel to go back."
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:154
+msgid "Prize draws cannot be cleared until a winner has been picked."
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:160
+#: admin/nfpd-shortcode-generator-admin.php:17
+#: admin/nfpd-view-entrees-admin.php:169
+msgid "Get No Frills Prize Draw PRO"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:161
+#: admin/nfpd-shortcode-generator-admin.php:18
+#: admin/nfpd-view-entrees-admin.php:170
+msgid ""
+"Need more features for your prize draws &amp; competitions? Check out "
+"<strong>No Frills Prize Draw PRO</strong>. Features include:-"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:163
+#: admin/nfpd-shortcode-generator-admin.php:20
+#: admin/nfpd-view-entrees-admin.php:172
+msgid "Unlimited prize draws / competitions that can be run concurrently"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:164
+#: admin/nfpd-shortcode-generator-admin.php:21
+#: admin/nfpd-view-entrees-admin.php:173
+msgid "Include start and closing dates"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:165
+#: admin/nfpd-shortcode-generator-admin.php:22
+#: admin/nfpd-view-entrees-admin.php:174
+msgid "Customise prize draws as text or multiple choice entry"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:166
+#: admin/nfpd-shortcode-generator-admin.php:23
+#: admin/nfpd-view-entrees-admin.php:175
+msgid "Customise for use as prize draws, competitions or simple surveys"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:167
+#: admin/nfpd-shortcode-generator-admin.php:24
+#: admin/nfpd-view-entrees-admin.php:176
+msgid "Custom fields"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:168
+#: admin/nfpd-shortcode-generator-admin.php:25
+#: admin/nfpd-view-entrees-admin.php:177
+msgid "Optional marketing checkbox"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:169
+#: admin/nfpd-shortcode-generator-admin.php:26
+#: admin/nfpd-view-entrees-admin.php:178
+msgid "Optional auto-email confirmation"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:170
+#: admin/nfpd-shortcode-generator-admin.php:27
+#: admin/nfpd-view-entrees-admin.php:179
+msgid "Optional social share"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:171
+#: admin/nfpd-shortcode-generator-admin.php:28
+#: admin/nfpd-view-entrees-admin.php:180
+msgid "Display all prize draws as dropdown or simple list"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:172
+#: admin/nfpd-shortcode-generator-admin.php:29
+#: admin/nfpd-view-entrees-admin.php:181
+msgid "Customisable/translatable front-end static text"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:173
+#: admin/nfpd-shortcode-generator-admin.php:30
+#: admin/nfpd-view-entrees-admin.php:182
+msgid "Compatible with Wordpress translate system"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:174
+#: admin/nfpd-shortcode-generator-admin.php:31
+#: admin/nfpd-view-entrees-admin.php:183
+msgid "Buy once, use <em>anywhere</em> on <em>any website</em>"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:175
+#: admin/nfpd-shortcode-generator-admin.php:32
+#: admin/nfpd-view-entrees-admin.php:184
+msgid "Free updates"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:178
+#: admin/nfpd-shortcode-generator-admin.php:35
+#: admin/nfpd-view-entrees-admin.php:187
+msgid "Go PRO Now"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:182
+#: admin/nfpd-shortcode-generator-admin.php:39
+#: admin/nfpd-view-entrees-admin.php:191
+msgid "Please rate this plug-in"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:183
+#: admin/nfpd-shortcode-generator-admin.php:40
+#: admin/nfpd-view-entrees-admin.php:192
+msgid "Please help support this plug-in by rating and/or reviewing it"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:184
+#: admin/nfpd-shortcode-generator-admin.php:41
+#: admin/nfpd-view-entrees-admin.php:193
+msgid "Rate This Plug-in"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:197 admin/nfpd-view-entrees-admin.php:211
+msgid "How do I display prize draws on my website?"
+msgstr ""
+
+#: admin/nfpd-edit-draw-admin.php:198 admin/nfpd-view-entrees-admin.php:212
+msgid ""
+"Prize draws can be added anywhere on your website via the use of "
+"<i>Shortcodes</i>. <br>Simply click the \"<a href='/wp-admin/admin.php?"
+"page=nfpd_shortcode_generator'>Shortcodes</a>\" link, then copy and paste "
+"the code directly in to a new page or post"
+msgstr ""
+
+#: admin/nfpd-shortcode-generator-admin.php:7
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/nfpd-shortcode-generator-admin.php:9
+msgid ""
+"The front-end of the prize draw is handled by a simple shortcode that can be "
+"added to any page or post using the <a href=\"https://codex.wordpress.org/"
+"Shortcode_API\" target=\"_blank\">standard shortcode</a> method, or via the "
+"<a href=\"https://developer.wordpress.org/reference/functions/do_shortcode/"
+"\" target=\"_blank\">PHP 'do_shortcode'</a> method"
+msgstr ""
+
+#: admin/nfpd-shortcode-generator-admin.php:11
+msgid "Copy and paste the shortcode below in to any page or post"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:12
+msgid "Prize Draw Entries"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:17
+msgid "User has been removed from this prize draw"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:19
+msgid ""
+"User could not be removed from this prize draw. A user can only be removed "
+"once, and if the winner has not yet been chosen"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:25
+msgid "A winner was successfully chosen. See details below"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:27
+msgid "A winner could not be picked at this time"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:41
+msgid "All entries for prize draw"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:49
+msgid "A winner was picked for this prize draw on"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:49
+msgid ""
+"Please contact them directly to send the prize out.</p><p><strong><u>Winner "
+"Details</u></strong>"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:50
+msgid "Winner Answer"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:51 admin/nfpd-view-entrees-admin.php:104
+msgid "Email"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:57
+msgid "A winner has not yet been chosen for this draw"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:60
+msgid "Nobody has enterred the prize draw yet"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:62
+msgid "Click the button below to randomly select a winner"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:64
+msgid ""
+"Choose your winner manually using the options next to each entry, or click "
+"below to pick a winner randomly"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:66
+msgid "Pick A Winner Now"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:103
+msgid "Search by Email"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:103
+msgid "Filter"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:103
+msgid "All"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:103
+msgid "Only Correct Entries"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:103
+msgid "Refine results"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:104
+msgid "Name"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:104
+msgid "Correct Answer?"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:104
+msgid "Date Entered"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:104
+msgid "Options"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:109
+msgid "No entries found"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:137
+msgid "Remove User"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:139 admin/nfpd-view-entrees-admin.php:143
+msgid "Select as Winner"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:145
+msgid "None"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:161
+msgid "Total Number of Entries"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:162
+msgid "Download CSV file"
+msgstr ""
+
+#: admin/nfpd-view-entrees-admin.php:165
+msgid "You are about to delete a user from this draw"
+msgstr ""
+
+#: no-frills-prize-draw.php:386
+msgid "Prize Draw Export"
+msgstr ""
+
+#: no-frills-prize-draw.php:387
+msgid ""
+"CSV file has been generated. Please click the link below to download the csv "
+"file"
+msgstr ""
+
+#: no-frills-prize-draw.php:387
+msgid "CLICK HERE TO DOWNLOAD CSV FILE"
+msgstr ""
+
+#: no-frills-prize-draw.php:388
+msgid "Downloaded it?"
+msgstr ""
+
+#: no-frills-prize-draw.php:393
+msgid "Prize Draw Export Removal"
+msgstr ""
+
+#: no-frills-prize-draw.php:400
+msgid ""
+"Thanks, this csv file has now been removed. You can rebuild the csv file any "
+"time from the draw entries details page"
+msgstr ""
+
+#: no-frills-prize-draw.php:400 no-frills-prize-draw.php:407
+msgid "You can now close this page"
+msgstr ""
+
+#: no-frills-prize-draw.php:404
+msgid "We couldn't delete this file right now"
+msgstr ""
+
+#: no-frills-prize-draw.php:404
+msgid ""
+"Please try again. If you still cannot delete please contact us with the "
+"filename and we will remove manually"
+msgstr ""
+
+#: no-frills-prize-draw.php:407
+msgid ""
+"This csv file has been removed. You can rebuild the csv file any time from "
+"the draw entries details page"
+msgstr ""
+
+#: no-frills-prize-draw.php:598
+msgid "Unfortunately there is no prize draw available"
+msgstr ""
+
+#: no-frills-prize-draw.php:602
+msgid "This prize draw is only open to registered members"
+msgstr ""
+
+#: no-frills-prize-draw.php:604
+msgid "Not a member?"
+msgstr ""
+
+#: no-frills-prize-draw.php:604 no-frills-prize-draw.php:606
+msgid "Click Here"
+msgstr ""
+
+#: no-frills-prize-draw.php:604
+msgid "to register now"
+msgstr ""
+
+#: no-frills-prize-draw.php:606
+msgid "Already a member?"
+msgstr ""
+
+#: no-frills-prize-draw.php:606
+msgid "to log in now"
+msgstr ""
+
+#: no-frills-prize-draw.php:637
+msgid "Enter answer here..."
+msgstr ""
+
+#: no-frills-prize-draw.php:647
+msgid "Select one or more from the choices below..."
+msgstr ""
+
+#: no-frills-prize-draw.php:661
+msgid "Select one from the choices below..."
+msgstr ""
+
+#: no-frills-prize-draw.php:706
+msgid "Please Enter Your Details"
+msgstr ""
+
+#: no-frills-prize-draw.php:707
+msgid "Your Name"
+msgstr ""
+
+#: no-frills-prize-draw.php:708
+msgid "Your Email"
+msgstr ""
+
+#: no-frills-prize-draw.php:714
+msgid "You must agree to our"
+msgstr ""
+
+#: no-frills-prize-draw.php:717
+msgid "Submit Entry"
+msgstr ""
+
+#: no-frills-prize-draw.php:809 no-frills-prize-draw.php:823
+msgid "There was an error. Missing data."
+msgstr ""
+
+#: no-frills-prize-draw.php:810 no-frills-prize-draw.php:824
+msgid "We couldn't save your details at this time."
+msgstr ""
+
+#: no-frills-prize-draw.php:812
+msgid "Click here to go back and try again"
+msgstr ""
+
+#: no-frills-prize-draw.php:815
+msgid "Thanks for entering!"
+msgstr ""
+
+#: no-frills-prize-draw.php:816
+msgid ""
+"We will notify the winner once the competition ends.</p><p><strong>Good luck!"
+"</strong></p>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "No Frills Prize Draw"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.jamestibbles.co.uk/no-frills-prize-draw"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "James Tibbles"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.jamestibbles.co.uk"
+msgstr ""

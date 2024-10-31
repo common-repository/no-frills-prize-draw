@@ -1,0 +1,72 @@
+.error{
+	border:1px solid red;
+	color:red;
+	padding:5px;
+	margin:20px 0 20px 0;
+    background-color: rgba(255,255,255,0.3);
+}
+.success{
+	border: 1px solid #25B125;
+    color: #25B125;
+    padding: 5px;
+    margin: 20px 0 20px 0;
+    background-color: rgba(255,255,255,0.3);
+}
+.prize-additional-text{
+	padding:15px 0;
+}
+.prize-question{
+	font-size:1.3em;
+	padding:15px 0;
+}
+.multiple-answer label,.submit_fields label{
+	cursor:pointer;
+	margin:5px;
+	display:block;
+	width:100%;
+}
+.multiple-answer label input[type="radio"],.multiple-answer label input[type="checkbox"],.submit_fields label input[type="checkbox"]{
+	margin-right:5px;
+	vertical-align:middle;
+}
+.basic_fields label,.address_fields label{
+	width:175px !important;
+	margin-right:10px!important;
+	display:inline-block;
+}
+.basic_fields div,.address_fields div{
+	margin:5px 0!important;
+}
+input[type="text"],.basic_fields input[type="text"],.basic_fields input[type="email"],.basic_fields input[type="number"],.basic_fields textarea,
+.address_fields input[type="text"],.address_fields input[type="email"],.address_fields input[type="number"],.address_fields textarea{
+	padding:5px;
+	border-radius:5px;
+	min-width:300px;
+}
+#submit_entry{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+input[type="radio"],input[type="checkbox"]{
+	margin-top:0 !important;
+}
+.submit_fields{
+	margin-top: 15px;
+    margin-bottom: 15px;
+}
+.prize-answer{
+	min-width:50%;
+}
+.prize-image img{
+	max-width:100%;
+}
+
+ul.prize-draw-list{
+	margin:10px;
+}
+ul.prize-draw-list li{
+	margin-bottom:5px;
+}
+.prize-draw-select-list{
+	margin:10px 0;
+}
